@@ -4,6 +4,7 @@ using System.Linq;
 using System.Net.Mime;
 using System.Runtime.InteropServices.WindowsRuntime;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace VirusLand_MasonSeale
@@ -34,7 +35,7 @@ namespace VirusLand_MasonSeale
             while (true)
             {
                 boardsetting();
-                Console.ReadKey(true);
+                Thread.Sleep(60);
                 movement();
                 Console.Clear();
             }
