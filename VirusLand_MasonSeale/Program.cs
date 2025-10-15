@@ -44,6 +44,7 @@ namespace VirusLand_MasonSeale
         {
             for (int i = 0; i < spots.Count; i++)
             {
+                position = spots.ElementAt(i);
                 int diditwork = infect.Next(1, 10);
                 if (diditwork == 1)
                 {
