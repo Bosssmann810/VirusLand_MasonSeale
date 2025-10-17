@@ -35,7 +35,7 @@ namespace VirusLand_MasonSeale
             while (true)
             {
                 boardsetting();
-                Thread.Sleep(60);
+                Thread.Sleep(1000);
                 movement();
                 Console.Clear();
             }

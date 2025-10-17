@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\mason unity\\VirusLand_MasonSeale\\",
+  "WorkspaceRootPath": "C:\\Users\\seale\\Desktop\\school work\\computer programming\\VirusLand_MasonSeale\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D8D4FD81-020F-4B76-8B6A-F7B3BE714B3E}|VirusLand_MasonSeale\\VirusLand_MasonSeale.csproj|c:\\mason unity\\virusland_masonseale\\virusland_masonseale\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D8D4FD81-020F-4B76-8B6A-F7B3BE714B3E}|VirusLand_MasonSeale\\VirusLand_MasonSeale.csproj|c:\\users\\seale\\desktop\\school work\\computer programming\\virusland_masonseale\\virusland_masonseale\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8D4FD81-020F-4B76-8B6A-F7B3BE714B3E}|VirusLand_MasonSeale\\VirusLand_MasonSeale.csproj|solutionrelative:virusland_masonseale\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\mason unity\\VirusLand_MasonSeale\\VirusLand_MasonSeale\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\seale\\Desktop\\school work\\computer programming\\VirusLand_MasonSeale\\VirusLand_MasonSeale\\Program.cs",
               "RelativeDocumentMoniker": "VirusLand_MasonSeale\\Program.cs",
-              "ToolTip": "C:\\mason unity\\VirusLand_MasonSeale\\VirusLand_MasonSeale\\Program.cs",
+              "ToolTip": "C:\\Users\\seale\\Desktop\\school work\\computer programming\\VirusLand_MasonSeale\\VirusLand_MasonSeale\\Program.cs",
               "RelativeToolTip": "VirusLand_MasonSeale\\Program.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAtwCQAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAtwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-15T16:34:33.794Z",
               "EditorCaption": ""
